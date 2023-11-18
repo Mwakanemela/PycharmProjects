@@ -1,3 +1,2 @@
-x = "Mwakanemela"
-y = "Kayange"
-print(f"{x} {y}")
+ip = input("Enter target ip?: ")
+print(ip)
