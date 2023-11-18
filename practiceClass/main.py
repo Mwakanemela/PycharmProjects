@@ -1,2 +1,1 @@
-ip = input("Enter target ip?: ")
-print(ip)
+print("You are targeting " + input("Enter target ip?: "))
